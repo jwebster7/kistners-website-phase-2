@@ -1,4 +1,4 @@
-## Submission Notes
+# Submission Notes
 Author: Joseph Webster
 Date: 05.08.2019
 
@@ -29,6 +29,7 @@ Conversely, you may also reach a convenient admin page if you have an active ses
 
 **/admin** will take you to an admin page with the respective links needed for accessing the admin capabilities. 
 
+# Assignment Description  
 ## Arrangement Creation (20 points)
 You will need to create a form by which an employee can create new arrangement designs. Designs should include a name, description, and an image. You should take advantage of the existing database.arrangements.create() method to commit the new arrangement to the database.This area will be used by the assessor to leave comments related to this criterion.
 
