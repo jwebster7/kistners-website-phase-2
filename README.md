@@ -5,7 +5,7 @@ Date: 05.08.2019
 ***Please ignore the test arrangements I've created without images.***
 The admin username and password is:  
 
-*user:* **admin**
+*user:* **admin**  
 *pass:* **password01**
 
 To traverse to the different templates/forms, you may append "tails" to the 
