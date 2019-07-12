@@ -2,7 +2,7 @@
 Author: Joseph Webster
 Date: 05.08.2019
 
-***Please ignore the test arrangements I've created without images.***
+***Please ignore the test arrangements I've created without images.*** . 
 The admin username and password is:  
 
 *user:* **admin**  
