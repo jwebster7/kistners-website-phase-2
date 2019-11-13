@@ -2,7 +2,8 @@
 Author: Joseph Webster  
 Date: 05.08.2019   
 
-***Do Not Copy:*** **This is solely for keeping record of my work and presentation of prior experience. If used for personal use, please reference. If used for academic purposes, verify with the primary instructor before use and reference if applicable.**  
+
+***Do Not Copy:*** **This is solely for record keeping and presentation of prior experience. If used for personal use, please reference. If used for academic purposes, verify with the primary instructor before use and reference if applicable.**   
 
 ***Please ignore the test arrangements I've created without images*** .  
 
